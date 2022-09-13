@@ -13,7 +13,6 @@
 list1 = [1, 1, 3, 3, 7, 2, 2, 2, 2]
 numb = 3
 
-
 def delete_nth(order, max_e):
     result = []
     occurrences = {}
